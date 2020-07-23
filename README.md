@@ -1,7 +1,4 @@
-### Hi there 👋
-
-# I'm José
-#### a.k.a. Zeeg
+### Hi there 👋 I'm José (a.k.a. Zeeg)
 
 > Notice: previously, this account was called "Deku", so there might be old references in the commit's author in some of my repos.
 
