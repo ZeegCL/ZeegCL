@@ -12,4 +12,4 @@ I'm a perpetual student, fast learner, and really curious. I tend to focus a lot
 
 Currently working as the interim Director of IT for a local educational institution ✨.
 
-📬 Got a remote offer? You can contact me here 👉 hello.zeegcl (at) gmail.com 
+📬 Got a remote job offer? You can contact me here 👉 hello.zeegcl (at) gmail.com 
