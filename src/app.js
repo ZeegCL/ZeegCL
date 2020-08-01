@@ -3,7 +3,7 @@ const TemplateEngine = require('./Services/TemplateEngine');
 const fs = require('fs');
 
 (async () => {
-    const articles = await ArticlesRepository.getAll();
+    const articles = await ArticlesRepository.get(5);
     let latestArticlesSection = '';
 
     if (articles.length > 0) {
@@ -18,7 +18,6 @@ const fs = require('fs');
                     });
             })
     }
-    console.log("section", latestArticlesSection);
 
     await TemplateEngine.loadTemplate('template.md')
     .then(() => {
