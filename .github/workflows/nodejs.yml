@@ -1,6 +1,10 @@
-name: Node.js CI
+name: Generate README.md
 
 on:
+  push:
+    branches: 
+      - master
+  workflow_dispatch:
   schedule:
   - cron: "0 0 */1 * *"
 
