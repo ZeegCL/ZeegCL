@@ -1,0 +1,26 @@
+{
+  "name": "zeegcl",
+  "version": "1.0.0",
+  "description": "ZeegCL's Github profile readme",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "jest --coverage=true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZeegCL/ZeegCL.git"
+  },
+  "author": "ZeegCL",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZeegCL/ZeegCL/issues"
+  },
+  "homepage": "https://github.com/ZeegCL/ZeegCL#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
+  "devDependencies": {
+    "jest": "^26.2.2"
+  }
+}
