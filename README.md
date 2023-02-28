@@ -13,16 +13,14 @@ Here's a summary of skills areas you might be interested in:
 
 - **Python (1 year):** this is currently my main programming language. I do a lot of stuff with it, from data scrapping and wrangling to web development.
 - **SQL (8 years):** when working with databases, I've done from ad-hoc queries with subqueries and CTEs, to scripting stored procedures for advanced processing of data.
-- **PHP (~3 years):** started with vanilla code on PHP 5.2, then spent some time with CodeIgniter, and finally moved to Laravel (v5.4 and up).
-- **Javascript (~6 years):** started doing fun stuff with just plain JS in the browser, and then developed some chat bots with NodeJs. Nowadays I'm into React and NodeJS.
-- **C# + .Net (5 years):** transitioning from .Net Framework 4.0 to .Net Core 2.0. Mainly maintaining a web system for the company I worked in.
-- **Others:** did some Minecraft server plugins and some native Android apps with Java. Also helped a bit on the [Azerothcore project](https://github.com/azerothcore/) using C++.
+- **Others:** developed a bunch of websites mixing PHP (Laravel) and Javascript (vanilla/React). Did some Minecraft server plugins and some native Android apps with Java. Also helped a bit on the [Azerothcore project](https://github.com/azerothcore/) using C++.
 
 **Databases**
 
 - **MS SQL Server (8 years):** this has been the main DBMS I've faced on production systems. Managed the data, security and performance of the database server.
 - **MySQL (8 years):** used it on freelance projects and small websites, due to it's popularity and support.
 - **Postgres (1 year):** used it mainly on Apache Airflow implementations.
+- **BigQuery (1 year):** used to build datasets for analytics teams, following the medallion architecture (bronce, silver, gold data layers).
 
 **Server OS**
 - **Ubuntu Server (8 years)**: managed a lot of services, including: Apache web server (HTTPD), databases, FTP, SSH, firewall, Postfix and LDAP.
